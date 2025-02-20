@@ -31,15 +31,3 @@ This repository tracks my journey in **Quantitative Finance, Stochastic Calculus
 6. **Capstone Projects**
    - 📁 [Algorithmic Trading Project](06_capstone-projects/project-1-algo-trading/)
    - 📁 [Option Pricing Implementation](06_capstone-projects/project-2-option-pricing/)
-
-## 🔧 How to Use This Repository
-- 🌱 Each folder contains **notes, exercises, and Python notebooks**.
-- 📊 Use **Jupyter Notebooks** for interactive learning.
-- 💡 Track progress using **GitHub commits and Issues**.
-
-## 🚀 Next Steps
-1. **Complete core readings & exercises** 📖
-2. **Implement models in Python** 🐍
-3. **Build a final Capstone Project** 🎯
-
-Happy learning! 🚀
